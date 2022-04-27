@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3fd1c61-b9e2-4710-9bea-6e258eda67f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Borrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ColegioSanJuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InstitutoJohnson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uniforme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UniformesArmados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Prenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Prenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tela.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TipoPrenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TipoPrenda.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3fd1c61-b9e2-4710-9bea-6e258eda67f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +53,7 @@
       <workItem from="1650210263916" duration="329000" />
       <workItem from="1650232019499" duration="5679000" />
       <workItem from="1650391330880" duration="412000" />
-      <workItem from="1651072488885" duration="4614000" />
+      <workItem from="1651072488885" duration="5011000" />
     </task>
     <servers />
   </component>
