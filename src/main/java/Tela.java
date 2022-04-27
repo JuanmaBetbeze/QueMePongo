@@ -1,3 +1,3 @@
 public enum Tela {
-    ALGODON, POLIESTER
+    ALGODON, POLIESTER, PIQUE,ACETATO,CUERO
 }

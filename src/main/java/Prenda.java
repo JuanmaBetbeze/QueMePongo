@@ -7,15 +7,17 @@ public class Prenda {
     Color colorPrincipal;
     Color colorSecundario;
 
-    public Prenda(TipoPrenda tipo, Tela tela, Color colorPrincipal, Color colorSecundario) {
-        Validate.notNull(tipo,"El tipo de prenda no puede ser nulo");
-        Validate.notNull(tela,"La tela de la prenda no puede ser nulo");
-        Validate.notNull(colorPrincipal,"El color principal de la prenda no puede ser nulo");
+    Trama trama;
+
+    public Prenda(TipoPrenda tipo, Tela tela, Color colorPrincipal, Color colorSecundario,Trama trama) {
         this.tipo = tipo;
         this.tela = tela;
+        this.trama=trama;
         this.colorPrincipal = colorPrincipal;
         this.colorSecundario = colorSecundario;
-
+    }
+    public TipoPrenda getTipo() {
+        return tipo;
     }
     
 }
