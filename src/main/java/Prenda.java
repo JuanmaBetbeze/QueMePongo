@@ -1,5 +1,4 @@
 import java.awt.*;
-import org.apache.commons.lang3.Validate;
 
 public class Prenda {
     TipoPrenda tipo;
